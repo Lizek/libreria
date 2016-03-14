@@ -1,0 +1,26 @@
+.button-collapse, .brand-logo{
+	margin-left: 20px;
+}
+
+/*
+	Selectores css3
+	clases "."
+	id "#"
+	etiquetas "tag"
+*/
+#slider-libreria, #section2{
+	margin-top: 30px;
+}
+
+.btn-social{
+	font-size: 30px;
+	margin-left: 20px;
+}
+
+
+.slider .indicators .indicator-item.active{
+  background-color: #00838f;
+  border: #ffffff;
+}
+
+
